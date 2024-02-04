@@ -17,7 +17,7 @@ h1 {
 }
 
 header{
-    background-image: url(/assets/img/bg-header.jpg);
+    background-image: url("../img/bg-header.jpg");
     background-size: cover;
     height: 45.4375rem;
 }
