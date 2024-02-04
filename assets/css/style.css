@@ -1,0 +1,120 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+        margin: 0;
+    padding: 0;
+}
+
+nav{
+height: 4.5325rem;
+}
+
+h1 {
+    font-size: 3.125rem;
+    font-weight: 500; 
+    text-align: center;
+}
+
+header{
+    background-image: url(/assets/img/bg-header.jpg);
+    background-size: cover;
+    height: 45.4375rem;
+}
+
+.descripcion{
+    width: 85%;
+    margin: 5% auto;
+    padding: 0 auto;
+}
+
+
+.centrar_descripcion{
+height: 100%;
+}
+
+.descripcion_texto{
+    text-align: left;
+    width: 45%;
+    margin: 0;
+    padding: 0 5% 0 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.descripcion_img{
+    text-align: right;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.iconos {
+    text-align: center;
+    height: 18%;
+    padding: 5%;
+    background-color: #1E1A13;
+
+}
+
+h2 {
+font-weight: 500;
+font-size: 2.5rem;
+}
+
+
+.seccion_icono{
+font-weight: 300;
+font-size: 1.5rem;
+}
+
+.centrar_iconos {
+    height: 100%;
+    width: 33%;
+    display: inline-block;
+}
+
+.icono{
+    font-size: 3rem;
+}
+
+.galeria {
+    height: 18%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.centrar_foto {
+    width: 31%;
+    height: 100%;
+    padding: 5% 1%;
+    display: inline-block;
+}
+
+.foto{
+    text-align: center;
+    height: 13rem;
+    width: 100%;
+    
+}
+
+footer{
+    height: 2rem;
+    background-color: #1E1A13;
+    text-align: center;
+    font-size: 1.25rem;
+    padding: 2% 0;
+    
+
+}
+
+a{
+    color: #FFFFFF;
+    height: 15%;
+    font-weight: 300;
+    padding: 2rem 0;
+    vertical-align: middle;
+}
